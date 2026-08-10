@@ -3,8 +3,8 @@
 Interactive deployment of the **Stage-A duplicate matcher** from my
 Introduction to Deep Learning & GenAI project (BSDA2001P, T2-2026).
 
-**Live app:** _paste your `.streamlit.app` URL here after deploying_
-**Full project:** https://github.com/24f1002825-VihaanB/DL-GenAI-Project
+**Live app:** `https://dl-genai-project-deployment-24f1002825.streamlit.app`
+**Full project:** https://github.com/24f1002825-VihaanB/DL-GenAI-Project-Deployment
 
 ---
 
